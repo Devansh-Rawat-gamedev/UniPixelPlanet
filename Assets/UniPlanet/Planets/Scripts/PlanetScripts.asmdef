@@ -1,0 +1,17 @@
+{
+    "name": "PlanetScripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:62e654c25eaba2642af6a943f5ae4759",
+        "GUID:4ecd204e31e0c7046806bc5e5b3148d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
